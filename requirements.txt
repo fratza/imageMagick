@@ -1,0 +1,8 @@
+flask==2.0.1
+Wand==0.6.7
+pytesseract==0.3.8
+pillow==9.0.0
+gunicorn==20.1.0
+python-dotenv==0.19.1
+pytest==6.2.5
+pdf2image==1.16.0
